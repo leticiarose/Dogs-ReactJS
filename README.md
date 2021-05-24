@@ -16,7 +16,7 @@
 
 # Deploy:
 
-### If you want to view the quiz👉 [Click here!](https://dogs-react-js.vercel.app/)
+### If you want to view👉 [Click here!](https://dogs-react-js.vercel.app/)
 
 
 ## How to use
