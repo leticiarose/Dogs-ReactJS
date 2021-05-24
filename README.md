@@ -1,16 +1,7 @@
-## 📌 Objective
+# 🐕  Dogs, a social network for dogs 🐕 
 
+![](https://github.com/leticiarose/Dogs-ReactJS/blob/199aaefa7ec105bba4912f65692d441e38b838fb/src/Assets/Gif%20demonstration.gif)
 
-## How to use
-<h2>
-    Clone esse repositório
-    $ git clone 
-
-    Instalar dependências
-    $ npm install
-
-    Inicie o projeto
-    $ npm start
 </h2>
 
 ## ⚒️ Technology
@@ -25,8 +16,21 @@
 
 # Deploy:
 
-### If you want to view the quiz👉 [Click here!]()
+### If you want to view the quiz👉 [Click here!](https://dogs-react-js.vercel.app/)
 
+
+## How to use
+<h2>
+    
+    Clone this repository
+    $ git clone https://github.com/leticiarose/Dogs-ReactJS
+
+    Install dependencies
+    $ npm install
+
+    Start the project
+    $ npm start
+    
 
 ## Contact me
 
